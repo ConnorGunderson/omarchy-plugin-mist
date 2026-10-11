@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "io.github.connorgunderson.mist",
+  "name": "Mist",
+  "version": "0.1.0",
+  "author": "Connor Gunderson",
+  "license": "MIT",
+  "description": "Faint, slow-drifting mist over the wallpaper, below every window. Seen softly through translucent terminals; never takes input.",
+  "kinds": ["service"],
+  "entryPoints": { "service": "Service.qml" }
+}
